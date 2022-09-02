@@ -2,7 +2,7 @@ name: Formula 1-2-3 auto-update
 
 on:
   schedule:
-    - cron: '*/30 * * * mon,sun'
+    - cron: '*/30 * * * sat,sun'
 
 jobs:
   build:
@@ -63,9 +63,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "update table data" -a
+          git commit -m "auto-update table data" -a
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN_FORMULA }}
           branch: main
