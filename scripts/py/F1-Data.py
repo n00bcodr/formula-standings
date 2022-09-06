@@ -113,7 +113,7 @@ dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,:]
 
-# Removing driver acronyms for each driver row, Carlos Sainz SAI => Carlos Sainz
+# Removing driver code for each driver row, Carlos Sainz SAI => Carlos Sainz
 for ind in dfTable.index:
     dfTable.at[ind, 'Driver'] = dfTable['Driver'][ind][:-4]
 
