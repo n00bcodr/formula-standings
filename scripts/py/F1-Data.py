@@ -52,6 +52,7 @@ HTML_data = soup.find_all("table")[0].find_all("tr")[1:]
 for element in HTML_data:
     sub_data = []
     for sub_element in element:
+        println(sub_element)
         try:
             sub_data.append(sub_element.get_text().strip().replace('\r', ' ').replace('\n', ' '))
         except:
