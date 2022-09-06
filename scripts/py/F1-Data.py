@@ -112,6 +112,11 @@ dataFrame = pd.DataFrame(data = data, columns = list_header)
 dataFrame.drop('',inplace=True,axis=1)
 dataFrame.reset_index(drop=True, inplace=True)
 dfTable = dataFrame.iloc[:,:]
+
+# Removing driver acronyms for each driver row, Carlos Sainz SAI => Carlos Sainz
+for ind in dfTable.index:
+    dfTable.at[ind, 'Driver'] = dfTable['Driver'][ind][:-4]
+
 # Printing output
 print(dfTable)
 # Converting to html
