@@ -139,7 +139,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>J. Martí</td>
       <td>Campos Racing</td>
       <td>0</td>
@@ -175,7 +175,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>0</td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>A. Famularo</td>
       <td>Charouz Racing System</td>
       <td>0</td>
