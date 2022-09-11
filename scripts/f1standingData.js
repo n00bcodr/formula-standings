@@ -62,14 +62,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>Kevin Magnussen</td>
-      <td>Haas Ferrari</td>
+      <td>Pierre Gasly</td>
+      <td>AlphaTauri RBPT</td>
       <td>22</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Pierre Gasly</td>
-      <td>AlphaTauri RBPT</td>
+      <td>Kevin Magnussen</td>
+      <td>Haas Ferrari</td>
       <td>22</td>
     </tr>
     <tr>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='11/09/2022 14:36:21 UTC';
+document.getElementById('lastup').innerHTML='11/09/2022 15:06:33 UTC';
