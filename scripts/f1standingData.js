@@ -4,43 +4,43 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>Max Verstappen</td>
       <td>Red Bull Racing RBPT</td>
-      <td>416</td>
+      <td>421</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Sergio Perez</td>
       <td>Red Bull Racing RBPT</td>
-      <td>280</td>
+      <td>284</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Charles Leclerc</td>
       <td>Ferrari</td>
-      <td>275</td>
+      <td>278</td>
     </tr>
     <tr>
       <td>4</td>
       <td>George Russell</td>
       <td>Mercedes</td>
-      <td>231</td>
+      <td>239</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Lewis Hamilton</td>
       <td>Mercedes</td>
-      <td>216</td>
+      <td>222</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Carlos Sainz</td>
       <td>Ferrari</td>
-      <td>212</td>
+      <td>219</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Lando Norris</td>
       <td>McLaren Mercedes</td>
-      <td>111</td>
+      <td>113</td>
     </tr>
     <tr>
       <td>8</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>Kevin Magnussen</td>
       <td>Haas Ferrari</td>
-      <td>24</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>14</td>
@@ -141,17 +141,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing RBPT</td>
-      <td>696</td>
+      <td>705</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Ferrari</td>
-      <td>487</td>
+      <td>497</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Mercedes</td>
-      <td>447</td>
+      <td>461</td>
     </tr>
     <tr>
       <td>4</td>
@@ -161,7 +161,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>McLaren Mercedes</td>
-      <td>146</td>
+      <td>148</td>
     </tr>
     <tr>
       <td>6</td>
@@ -176,7 +176,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>Haas Ferrari</td>
-      <td>36</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>9</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='12/11/2022 20:06:39 UTC';
+document.getElementById('lastup').innerHTML='12/11/2022 20:36:45 UTC';
