@@ -68,50 +68,50 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>12</td>
-      <td>G. Bortoleto</td>
-      <td>Trident</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>13</td>
       <td>Z. O'Sullivan</td>
       <td>PREMA Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>C. Mansell</td>
       <td>Campos Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>T. Barnard</td>
       <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>M. Boya</td>
       <td>MP Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>N. Bedrin</td>
       <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>G. Minì</td>
       <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>I. Cohen</td>
       <td>Rodin Carlin</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>G. Bortoleto</td>
+      <td>Trident</td>
       <td>0</td>
     </tr>
     <tr>
