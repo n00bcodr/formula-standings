@@ -16,7 +16,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>3</td>
       <td>G. Saucy</td>
       <td>ART Grand Prix</td>
-      <td>49</td>
+      <td>47</td>
     </tr>
     <tr>
       <td>4</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>T. Barnard</td>
       <td>Jenzer Motorsport</td>
-      <td>13</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>14</td>
@@ -110,14 +110,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>19</td>
-      <td>N. Tsolov</td>
-      <td>ART Grand Prix</td>
-      <td>0</td>
+      <td>N. Bedrin</td>
+      <td>Jenzer Motorsport</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>N. Bedrin</td>
-      <td>Jenzer Motorsport</td>
+      <td>N. Tsolov</td>
+      <td>ART Grand Prix</td>
       <td>0</td>
     </tr>
     <tr>
@@ -134,26 +134,26 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>23</td>
-      <td>R. Villagómez</td>
-      <td>Van Amersfoort Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>24</td>
       <td>O. Gray</td>
       <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
+      <td>24</td>
+      <td>R. Villagómez</td>
+      <td>Van Amersfoort Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
       <td>25</td>
-      <td>S. Floersch</td>
-      <td>PHM Racing by Charouz</td>
+      <td>H. Yeany</td>
+      <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
       <td>26</td>
-      <td>H. Yeany</td>
-      <td>Rodin Carlin</td>
+      <td>S. Floersch</td>
+      <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>ART Grand Prix</td>
-      <td>56</td>
+      <td>54</td>
     </tr>
     <tr>
       <td>5</td>
@@ -219,7 +219,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Jenzer Motorsport</td>
-      <td>13</td>
+      <td>15</td>
     </tr>
     <tr>
       <td>8</td>
