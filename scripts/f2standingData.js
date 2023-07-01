@@ -22,13 +22,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>O. Bearman</td>
       <td>PREMA Racing</td>
-      <td>70</td>
+      <td>71</td>
     </tr>
     <tr>
       <td>5</td>
       <td>D. Hauger</td>
       <td>MP Motorsport</td>
-      <td>59</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>6</td>
@@ -64,7 +64,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>11</td>
       <td>J. Doohan</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>41</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>12</td>
@@ -94,19 +94,19 @@ var tabledata=`<table border="1" class="dataframe">
       <td>16</td>
       <td>I. Hadjar</td>
       <td>Hitech Pulse-Eight</td>
-      <td>23</td>
+      <td>24</td>
     </tr>
     <tr>
       <td>17</td>
       <td>R. Stanek</td>
       <td>Trident</td>
-      <td>10</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>18</td>
       <td>J. Correa</td>
       <td>Van Amersfoort Racing</td>
-      <td>9</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>19</td>
@@ -141,7 +141,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>PREMA Racing</td>
-      <td>180</td>
+      <td>181</td>
     </tr>
     <tr>
       <td>2</td>
@@ -156,7 +156,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>4</td>
       <td>MP Motorsport</td>
-      <td>99</td>
+      <td>100</td>
     </tr>
     <tr>
       <td>5</td>
@@ -171,22 +171,22 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Van Amersfoort Racing</td>
-      <td>59</td>
+      <td>60</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Hitech Pulse-Eight</td>
-      <td>57</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Invicta Virtuosi Racing</td>
-      <td>41</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Trident</td>
-      <td>18</td>
+      <td>19</td>
     </tr>
     <tr>
       <td>11</td>
