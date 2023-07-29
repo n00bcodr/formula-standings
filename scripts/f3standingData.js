@@ -169,15 +169,15 @@ var tabledata=`<table border="1" class="dataframe">
       <td>0</td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>M. Esterson</td>
-      <td>Rodin Carlin</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <td>33</td>
       <td>W. Shin</td>
       <td>PHM Racing by Charouz</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>F. Simonazzi</td>
+      <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
   </tbody>
