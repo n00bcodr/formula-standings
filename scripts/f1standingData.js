@@ -62,14 +62,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>11</td>
-      <td>Oscar Piastri</td>
-      <td>McLaren Mercedes</td>
+      <td>Esteban Ocon</td>
+      <td>Alpine Renault</td>
       <td>36</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Esteban Ocon</td>
-      <td>Alpine Renault</td>
+      <td>Oscar Piastri</td>
+      <td>McLaren Mercedes</td>
       <td>36</td>
     </tr>
     <tr>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='27/08/2023 16:04:09 UTC';
+document.getElementById('lastup').innerHTML='27/08/2023 16:32:12 UTC';
