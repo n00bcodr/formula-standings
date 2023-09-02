@@ -140,20 +140,20 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>25</td>
-      <td>T. Smith</td>
+      <td>R. Villagómez</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>26</td>
-      <td>O. Gray</td>
-      <td>Rodin Carlin</td>
+      <td>T. Smith</td>
+      <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>27</td>
-      <td>R. Villagómez</td>
-      <td>Van Amersfoort Racing</td>
+      <td>O. Gray</td>
+      <td>Rodin Carlin</td>
       <td>0</td>
     </tr>
     <tr>
@@ -163,21 +163,21 @@ var tabledata=`<table border="1" class="dataframe">
       <td>0</td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
+      <td>J. Dufek</td>
+      <td>Campos Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>R. Faria</td>
       <td>PHM Racing by Charouz</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>W. Shin</td>
       <td>PHM Racing by Charouz</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>J. Dufek</td>
-      <td>Campos Racing</td>
       <td>0</td>
     </tr>
   </tbody>
