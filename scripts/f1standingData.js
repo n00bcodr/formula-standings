@@ -22,7 +22,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>4</td>
       <td>Fernando Alonso</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>174</td>
+      <td>175</td>
     </tr>
     <tr>
       <td>5</td>
@@ -34,7 +34,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>6</td>
       <td>Charles Leclerc</td>
       <td>Ferrari</td>
-      <td>137</td>
+      <td>135</td>
     </tr>
     <tr>
       <td>7</td>
@@ -76,7 +76,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>13</td>
       <td>Alexander Albon</td>
       <td>Williams Mercedes</td>
-      <td>22</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>14</td>
@@ -151,12 +151,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>3</td>
       <td>Ferrari</td>
-      <td>290</td>
+      <td>288</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Aston Martin Aramco Mercedes</td>
-      <td>221</td>
+      <td>222</td>
     </tr>
     <tr>
       <td>5</td>
@@ -171,7 +171,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>7</td>
       <td>Williams Mercedes</td>
-      <td>22</td>
+      <td>23</td>
     </tr>
     <tr>
       <td>8</td>
@@ -192,4 +192,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='07/10/2023 21:02:35 UTC';
+document.getElementById('lastup').innerHTML='07/10/2023 21:31:12 UTC';
