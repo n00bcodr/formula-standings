@@ -86,26 +86,26 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>15</td>
+      <td>D. Beganovic</td>
+      <td>PREMA Racing</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>M. Stenshorne</td>
       <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>N. León</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>N. Bedrin</td>
       <td>PHM AIX Racing</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>D. Beganovic</td>
-      <td>PREMA Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -199,7 +199,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>3</td>
       <td>PREMA Racing</td>
-      <td>26</td>
+      <td>28</td>
     </tr>
     <tr>
       <td>4</td>
