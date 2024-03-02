@@ -110,14 +110,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>19</td>
-      <td>C. Wurz</td>
-      <td>Jenzer Motorsport</td>
+      <td>T. Inthraphuvasak</td>
+      <td>PHM AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>T. Inthraphuvasak</td>
-      <td>PHM AIX Racing</td>
+      <td>C. Wurz</td>
+      <td>Jenzer Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
