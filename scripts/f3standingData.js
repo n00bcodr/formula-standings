@@ -110,14 +110,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>19</td>
-      <td>N. León</td>
-      <td>Van Amersfoort Racing</td>
+      <td>N. Bedrin</td>
+      <td>PHM AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>20</td>
-      <td>N. Bedrin</td>
-      <td>PHM AIX Racing</td>
+      <td>N. León</td>
+      <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -134,14 +134,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>23</td>
-      <td>T. Inthraphuvasak</td>
-      <td>PHM AIX Racing</td>
+      <td>K. Sztuka</td>
+      <td>MP Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
       <td>24</td>
-      <td>K. Sztuka</td>
-      <td>MP Motorsport</td>
+      <td>T. Inthraphuvasak</td>
+      <td>PHM AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
@@ -158,26 +158,26 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>27</td>
+      <td>C. Shields</td>
+      <td>Hitech Pulse-Eight</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>J. Dufek</td>
       <td>PHM AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>T. Smith</td>
       <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>P. Wisnicki</td>
       <td>Rodin Motorsport</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>C. Shields</td>
-      <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -223,12 +223,12 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>8</td>
-      <td>Van Amersfoort Racing</td>
+      <td>PHM AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>PHM AIX Racing</td>
+      <td>Van Amersfoort Racing</td>
       <td>0</td>
     </tr>
     <tr>
