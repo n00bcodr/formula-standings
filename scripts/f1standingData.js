@@ -10,7 +10,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>2</td>
       <td>Sergio Perez</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>101</td>
+      <td>103</td>
     </tr>
     <tr>
       <td>3</td>
@@ -20,14 +20,14 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>4</td>
-      <td>Carlos Sainz</td>
-      <td>Ferrari</td>
-      <td>85</td>
+      <td>Lando Norris</td>
+      <td>McLaren Mercedes</td>
+      <td>83</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Lando Norris</td>
-      <td>McLaren Mercedes</td>
+      <td>Carlos Sainz</td>
+      <td>Ferrari</td>
       <td>83</td>
     </tr>
     <tr>
@@ -135,12 +135,12 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Red Bull Racing Honda RBPT</td>
-      <td>237</td>
+      <td>239</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Ferrari</td>
-      <td>189</td>
+      <td>187</td>
     </tr>
     <tr>
       <td>3</td>
@@ -186,4 +186,4 @@ var tabledata=`<table border="1" class="dataframe">
 </table>
 `;
 document.getElementById('f1-constructors').innerHTML+=tabledata;
-document.getElementById('lastup').innerHTML='05/05/2024 23:31:32 UTC';
+document.getElementById('lastup').innerHTML='11/05/2024 00:29:25 UTC';
