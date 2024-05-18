@@ -28,7 +28,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>5</td>
       <td>T. Tramnitz</td>
       <td>MP Motorsport</td>
-      <td>29</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>6</td>
@@ -38,15 +38,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>7</td>
-      <td>L. Van Hoepen</td>
-      <td>ART Grand Prix</td>
+      <td>O. Goethe</td>
+      <td>Campos Racing</td>
       <td>22</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>O. Goethe</td>
-      <td>Campos Racing</td>
-      <td>21</td>
+      <td>L. Van Hoepen</td>
+      <td>ART Grand Prix</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>9</td>
@@ -86,15 +86,15 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>15</td>
-      <td>N. León</td>
-      <td>Van Amersfoort Racing</td>
+      <td>C. Wurz</td>
+      <td>Jenzer Motorsport</td>
       <td>10</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>C. Wurz</td>
-      <td>Jenzer Motorsport</td>
-      <td>10</td>
+      <td>N. León</td>
+      <td>Van Amersfoort Racing</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>17</td>
@@ -198,12 +198,12 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>3</td>
-      <td>ART Grand Prix</td>
-      <td>49</td>
+      <td>Campos Racing</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Campos Racing</td>
+      <td>ART Grand Prix</td>
       <td>49</td>
     </tr>
     <tr>
@@ -214,7 +214,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>6</td>
       <td>MP Motorsport</td>
-      <td>41</td>
+      <td>42</td>
     </tr>
     <tr>
       <td>7</td>
@@ -224,7 +224,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>Van Amersfoort Racing</td>
-      <td>10</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>9</td>
