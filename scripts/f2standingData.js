@@ -4,13 +4,13 @@ var tabledata=`<table border="1" class="dataframe">
       <td>1</td>
       <td>P. Aron</td>
       <td>Hitech Pulse-Eight</td>
-      <td>85</td>
+      <td>86</td>
     </tr>
     <tr>
       <td>2</td>
       <td>I. Hadjar</td>
       <td>Campos Racing</td>
-      <td>80</td>
+      <td>81</td>
     </tr>
     <tr>
       <td>3</td>
@@ -28,7 +28,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>5</td>
       <td>G. Bortoleto</td>
       <td>Invicta Racing</td>
-      <td>53</td>
+      <td>54</td>
     </tr>
     <tr>
       <td>6</td>
@@ -58,7 +58,7 @@ var tabledata=`<table border="1" class="dataframe">
       <td>10</td>
       <td>J. Crawford</td>
       <td>DAMS Lucas Oil</td>
-      <td>36</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>11</td>
@@ -80,9 +80,9 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>14</td>
-      <td>J. Correa</td>
-      <td>DAMS Lucas Oil</td>
-      <td>20</td>
+      <td>R. Miyata</td>
+      <td>Rodin Motorsport</td>
+      <td>19</td>
     </tr>
     <tr>
       <td>15</td>
@@ -92,26 +92,26 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>16</td>
-      <td>R. Miyata</td>
-      <td>Rodin Motorsport</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>17</td>
       <td>R. Verschoor</td>
       <td>Trident</td>
       <td>17</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>J. Dürksen</td>
       <td>AIX Racing</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>A. Cordeel</td>
       <td>Hitech Pulse-Eight</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>J. Correa</td>
+      <td>DAMS Lucas Oil</td>
       <td>15</td>
     </tr>
     <tr>
@@ -141,17 +141,17 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>1</td>
       <td>Campos Racing</td>
-      <td>106</td>
+      <td>107</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Hitech Pulse-Eight</td>
-      <td>100</td>
+      <td>101</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Invicta Racing</td>
-      <td>95</td>
+      <td>96</td>
     </tr>
     <tr>
       <td>4</td>
@@ -161,7 +161,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>5</td>
       <td>Rodin Motorsport</td>
-      <td>87</td>
+      <td>88</td>
     </tr>
     <tr>
       <td>6</td>
@@ -176,7 +176,7 @@ var tabledata=`<table border="1" class="dataframe">
     <tr>
       <td>8</td>
       <td>DAMS Lucas Oil</td>
-      <td>56</td>
+      <td>52</td>
     </tr>
     <tr>
       <td>9</td>
