@@ -152,32 +152,32 @@ var tabledata=`<table border="1" class="dataframe">
     </tr>
     <tr>
       <td>27</td>
-      <td>J. Wharton</td>
-      <td>Hitech Pulse-Eight</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>28</td>
       <td>C. Shields</td>
       <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>P. Wisnicki</td>
       <td>Rodin Motorsport</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>J. Dufek</td>
       <td>AIX Racing</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>T. Inthraphuvasak</td>
       <td>AIX Racing</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>J. Wharton</td>
+      <td>Hitech Pulse-Eight</td>
       <td>0</td>
     </tr>
   </tbody>
