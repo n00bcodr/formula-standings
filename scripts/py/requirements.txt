@@ -2,7 +2,7 @@ beautifulsoup4==4.9.3
 certifi==2024.7.4
 chardet==4.0.0
 idna==3.7
-mysql-connector-python==8.0.23
+mysql-connector-python==9.1.0
 mysqlclient==2.0.3
 numpy==1.22.0
 pandas==1.2.4
